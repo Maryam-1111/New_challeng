@@ -95,7 +95,8 @@ img.switching {
         width: 40px;
         /* transform: scale(1) translate(0, 0); */
         top: 64px;
-        left: 160px;
+        /* left: 160px; */
+        left: 12%;
         transform: rotate(0deg);
     }
     50% {
@@ -109,7 +110,8 @@ img.switching {
         width: 40px;
         /* transform: scale(1) translate(0, 0); */
         top: 64px;
-        left: 160px;
+        /* left: 160px; */
+        left: 12%;
         transform: rotate(0deg);
     }
 }
