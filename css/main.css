@@ -35,9 +35,9 @@ input:focus {
     padding: 20px;
     color: #fff;
 }
-@media (min-width: 430px) {
+@media (min-width: 375px) {
     .content {
-        width: 432px;
+        width: 350px;
     }
 }
 .content::before {
@@ -82,9 +82,9 @@ img {
     cursor: pointer;
     z-index: 20;
 }
-@media (min-width: 430px) {
+@media (min-width: 375px) {
     .button {
-        left: 60px;
+        left: 45px;
     }
 }
 img.switching {
@@ -126,9 +126,9 @@ img.switching {
     padding-top: 7px;
     cursor: pointer;
 }
-@media (min-width: 430px) {
+@media (min-width: 375px) {
     .button {
-        left: 135px;
+        left: 95px;
     }
 }
 .button:hover {
@@ -148,9 +148,9 @@ img.switching {
     text-align: center;
     padding-top: 7px;
 }
-@media (min-width: 430px) {
+@media (min-width: 375px) {
     .result {
-        left: 135px;
+        left: 95px;
     }
 }
 .showing {
@@ -166,8 +166,8 @@ img.switching {
     padding-top: 7px;
     overflow: auto;
 }
-@media (min-width: 430px) {
+@media (min-width: 375px) {
     .showing {
-        left: 135px;
+        left: 95px;
     }
 }
